@@ -56,7 +56,6 @@
        #| sarp    |  | nicholson |  | 5511235422 |  | umut sokak ankara            |  | Is adresi     |
       Then kullanici ilgili alanlari doldurur
       Then kullanici 2 saniye bekler
-      #Then sayfadan x ile cikis yap
       Then kullanici 2 saniye bekler
       Then trendyol logosuna tikla ve anasayfaya gec
       Then hesabimin uzerine mouse ile gel ve cikis yapa tikla
